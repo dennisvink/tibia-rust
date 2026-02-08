@@ -1,0 +1,6 @@
+spell_id,case_addr,effect,light_level,light_duration,haste_speed_arg,haste_duration_arg
+6,0x08088b91,haste,,,30,3
+10,0x08088c00,light,6,500,,
+11,0x08088c3b,light,8,1000,,
+39,0x08088eaa,haste,,,70,2
+75,0x08089002,light,9,2000,,

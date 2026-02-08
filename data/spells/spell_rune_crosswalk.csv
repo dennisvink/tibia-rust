@@ -1,0 +1,100 @@
+spell_id,words,type,rune_item_id
+1,exura,TYPE_INSTANT,
+2,exura gran,TYPE_INSTANT,
+3,exura vita,TYPE_INSTANT,
+4,adura gran,TYPE_RUNE,3152
+5,adura vita,TYPE_RUNE,3160
+6,utani hur,TYPE_INSTANT,
+7,adori,TYPE_RUNE,3174
+8,adori gran,TYPE_RUNE,3198
+9,"utevo res ""creature""",TYPE_INSTANT,
+10,utevo lux,TYPE_INSTANT,
+11,utevo gran lux,TYPE_INSTANT,
+12,adeta sio,TYPE_RUNE,3177
+13,exevo mort hur,TYPE_INSTANT,
+14,adevo ina,TYPE_RUNE,3178
+15,adori flam,TYPE_RUNE,3189
+16,adori gran flam,TYPE_RUNE,3191
+17,adevo mas flam,TYPE_RUNE,3192
+18,adevo mas hur,TYPE_RUNE,3200
+19,exevo flam hur,TYPE_INSTANT,
+20,"exiva ""name""",TYPE_INSTANT,
+21,adori vita vis,TYPE_RUNE,3155
+22,exevo vis lux,TYPE_INSTANT,
+23,exevo gran vis lux,TYPE_INSTANT,
+24,exevo gran mas vis,TYPE_INSTANT,
+25,adevo grav flam,TYPE_RUNE,3188
+26,adevo grav pox,TYPE_RUNE,3172
+27,adevo grav vis,TYPE_RUNE,3164
+28,adevo mas grav flam,TYPE_RUNE,3190
+29,exana pox,TYPE_INSTANT,
+30,adito grav,TYPE_RUNE,3148
+31,adana pox,TYPE_RUNE,3153
+32,adevo mas grav pox,TYPE_RUNE,3176
+33,adevo mas grav vis,TYPE_RUNE,3166
+34,para al evo para,,
+35,al evo para,,
+37,al ani para,,
+38,"utevo res ina ""creature""",TYPE_INSTANT,
+39,utani gran hur,TYPE_INSTANT,
+40,para al evo cogni,,
+41,al eta para,,
+42,exevo pan,TYPE_CONJURE,
+44,utamo vita,TYPE_INSTANT,
+45,utana vid,TYPE_INSTANT,
+46,para para al evo cogni,,
+47,para al ani sio,,
+48,exevo con pox,TYPE_CONJURE,
+49,exevo con flam,TYPE_CONJURE,
+50,adevo res flam,TYPE_RUNE,3195
+51,exevo con,TYPE_CONJURE,
+52,para al liber sio,,
+53,para al evo res,,
+54,adana ani,TYPE_RUNE,3165
+55,adevo mas vis,TYPE_RUNE,3149
+56,exevo gran mas pox,TYPE_INSTANT,
+57,para para para et ana liber,,
+58,al iva tera,,
+60,et ani para,,
+61,liber para para et ana gran,,
+62,et amo para,,
+63,para al evo vis,,
+64,para al eta vita,,
+65,para et isa para,,
+66,para et ana hora,,
+67,et ana para,,
+68,res para para et ana gran,,
+69,para para et ana vis,,
+70,para para para et ana res,,
+71,al eta sio,,
+72,al eta som,,
+73,para al ana sio,,
+74,al eta grav,,
+75,utevo vis lux,TYPE_INSTANT,
+76,exani tera,TYPE_INSTANT,
+77,adevo res pox,TYPE_RUNE,3179
+78,adito tera,TYPE_RUNE,3197
+79,exevo con mort,TYPE_CONJURE,
+80,exori,TYPE_INSTANT,
+81,"exani hur ""up|down""",TYPE_INSTANT,
+82,exura gran mas res,TYPE_INSTANT,
+83,adana mort,TYPE_RUNE,3203
+84,"exura sio ""name""",TYPE_INSTANT,
+85,exana mas mort,TYPE_INSTANT,
+86,adevo grav tera,TYPE_RUNE,3180
+87,exori mort,TYPE_INSTANT,
+88,exori vis,TYPE_INSTANT,
+89,exori flam,TYPE_INSTANT,
+90,exana ina,TYPE_INSTANT,
+91,adevo mas pox,TYPE_RUNE,3173
+92,exeta vis,TYPE_INSTANT,
+93,exeta res,TYPE_INSTANT,
+94,exevo grav vita,TYPE_INSTANT,
+95,exevo con vis,TYPE_CONJURE,
+96,para al iva cogni,,
+97,para para al eta cogni,,
+98,al ito tera,,
+99,para al ani hur,,
+100,al ana cogni,,
+101,res al ito mas,,
+102,res para al evo mas,,

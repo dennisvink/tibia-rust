@@ -1,0 +1,100 @@
+call_id,syllables,syllable_indexes,flash_id,name,words,type,level,mana,soul,group_primary,delay_self,delay_primary,delay_secondary,builtin_name,builtin_words,builtin_kind,match_count
+1,ex ura,3 32,1,Light Healing,exura,TYPE_INSTANT,8,20,0,GROUP_HEALING,1000,1000,0,Light Healing,exura,Instant,1
+2,ex ura gran,3 32 23,2,Intense Healing,exura gran,TYPE_INSTANT,20,70,0,GROUP_HEALING,1000,1000,0,Intense Healing,exura gran,Instant,1
+3,ex ura vita,3 32 13,3,Ultimate Healing,exura vita,TYPE_INSTANT,30,160,0,GROUP_HEALING,1000,1000,0,Ultimate Healing,exura vita,Instant,1
+4,ad ura gran,2 32 23,4,Intense Healing Rune,adura gran,TYPE_RUNE,15,120,2,GROUP_SUPPORT,2000,2000,0,Intense Healing Rune,adura gran,Rune,1
+5,ad ura vita,2 32 13,5,Ultimate Healing Rune,adura vita,TYPE_RUNE,24,400,3,GROUP_SUPPORT,2000,2000,0,Ultimate Healing Rune,adura vita,Rune,1
+6,ut ani hur,4 18 16,6,Haste,utani hur,TYPE_INSTANT,14,60,0,GROUP_SUPPORT,2000,2000,0,Haste,utani hur,Instant,1
+7,ad ori,2 9,,Light Magic Missile,adori,TYPE_RUNE,,,,,,,,Light Magic Missile,adori,Rune,0
+8,ad ori gran,2 9 23,,Heavy Magic Missile,adori gran,TYPE_RUNE,,,,,,,,Heavy Magic Missile,adori gran,Rune,0
+9,ut evo res para,4 8 25 6,9,Summon Creature,"utevo res ""creature""",TYPE_INSTANT,25,0,0,GROUP_SUPPORT,2000,2000,0,,,,1
+10,ut evo lux,4 8 11,10,Light,utevo lux,TYPE_INSTANT,8,20,0,GROUP_SUPPORT,2000,2000,0,Levitate,utevo lux,Instant,1
+11,ut evo gran lux,4 8 23 11,11,Great Light,utevo gran lux,TYPE_INSTANT,13,60,0,GROUP_SUPPORT,2000,2000,0,Great Light,utevo gran lux,Instant,1
+12,ad eta sio,2 20 33,12,Convince Creature Rune,adeta sio,TYPE_RUNE,16,200,3,GROUP_SUPPORT,2000,2000,0,Convince Creature,adeta sio,Rune,1
+13,ex evo mort hur,3 8 10 16,,Energy Wave,exevo mort hur,TYPE_INSTANT,,,,,,,,Energy Wave,exevo mort hur,Instant,0
+14,ad evo ina,2 8 19,14,Chameleon Rune,adevo ina,TYPE_RUNE,27,600,3,GROUP_SUPPORT,2000,2000,0,Chameleon,adevo ina,Rune,1
+15,ad ori flam,2 9 14,15,Fireball Rune,adori flam,TYPE_RUNE,27,460,3,GROUP_SUPPORT,2000,2000,0,Fireball,adori flam,Rune,1
+16,ad ori gran flam,2 9 23 14,,Great Fireball,adori gran flam,TYPE_RUNE,,,,,,,,Great Fireball,adori gran flam,Rune,0
+17,ad evo mas flam,2 8 26 14,17,Fire Bomb Rune,adevo mas flam,TYPE_RUNE,27,600,4,GROUP_SUPPORT,2000,2000,0,Firebomb,adevo mas flam,Rune,1
+18,ad evo mas hur,2 8 26 16,18,Explosion Rune,adevo mas hur,TYPE_RUNE,31,570,4,GROUP_SUPPORT,2000,2000,0,Explosion,adevo mas hur,Rune,1
+19,ex evo flam hur,3 8 14 16,19,Fire Wave,exevo flam hur,TYPE_INSTANT,18,25,0,GROUP_ATTACK,4000,2000,0,Fire Wave,exevo flam hur,Instant,1
+20,ex iva para,3 39 6,20,Find Person,"exiva ""name""",TYPE_INSTANT,8,20,0,GROUP_SUPPORT,2000,2000,0,,,,1
+21,ad ori vita vis,2 9 13 27,,Sudden Death,adori vita vis,TYPE_RUNE,,,,,,,,Sudden Death,adori vita vis,Rune,0
+22,ex evo vis lux,3 8 27 11,22,Energy Beam,exevo vis lux,TYPE_INSTANT,23,40,0,GROUP_ATTACK,4000,2000,0,Energy Beam,exevo vis lux,Instant,1
+23,ex evo gran vis lux,3 8 23 27 11,23,Great Energy Beam,exevo gran vis lux,TYPE_INSTANT,29,110,0,GROUP_ATTACK,6000,2000,0,Great Energy Beam,exevo gran vis lux,Instant,1
+24,ex evo gran mas vis,3 8 23 26 27,119,Rage of the Skies,exevo gran mas vis,TYPE_INSTANT,55,600,0,GROUP_ATTACK,40000,4000,0,Ultimate Explosion,exevo gran mas vis,Instant,1
+25,ad evo grav flam,2 8 34 14,25,Fire Field Rune,adevo grav flam,TYPE_RUNE,15,240,1,GROUP_SUPPORT,2000,2000,0,Fire Field,adevo grav flam,Rune,1
+26,ad evo grav pox,2 8 34 15,26,Poison Field Rune,adevo grav pox,TYPE_RUNE,14,200,1,GROUP_SUPPORT,2000,2000,0,Poison Field,adevo grav pox,Rune,1
+27,ad evo grav vis,2 8 34 27,27,Energy Field Rune,adevo grav vis,TYPE_RUNE,18,320,2,GROUP_SUPPORT,2000,2000,0,Energy Field,adevo grav vis,Rune,1
+28,ad evo mas grav flam,2 8 26 34 14,28,Fire Wall Rune,adevo mas grav flam,TYPE_RUNE,33,780,4,GROUP_SUPPORT,2000,2000,0,Fire Wall,adevo mas grav flam,Rune,1
+29,ex ana pox,3 7 15,29,Cure Poison,exana pox,TYPE_INSTANT,10,30,0,GROUP_HEALING,6000,1000,0,Antidote,exana pox,Instant,1
+30,ad ito grav,2 35 34,30,Destroy Field Rune,adito grav,TYPE_RUNE,17,120,2,GROUP_SUPPORT,2000,2000,0,Destroy Field,adito grav,Rune,1
+31,ad ana pox,2 7 15,31,Cure Poison Rune,adana pox,TYPE_RUNE,15,200,1,GROUP_SUPPORT,2000,2000,0,Antidote Rune,adana pox,Rune,1
+32,ad evo mas grav pox,2 8 26 34 15,32,Poison Wall Rune,adevo mas grav pox,TYPE_RUNE,29,640,3,GROUP_SUPPORT,2000,2000,0,Poison Wall,adevo mas grav pox,Rune,1
+33,ad evo mas grav vis,2 8 26 34 27,33,Energy Wall Rune,adevo mas grav vis,TYPE_RUNE,41,1000,5,GROUP_SUPPORT,2000,2000,0,Energy Wall,adevo mas grav vis,Rune,1
+34,para al evo para,6 1 8 6,,,,,,,,,,,,,,,0
+35,al evo para,1 8 6,,,,,,,,,,,,,,,0
+37,al ani para,1 18 6,,,,,,,,,,,,,,,0
+38,ut evo res ina para,4 8 25 19 6,38,Creature Illusion,"utevo res ina ""creature""",TYPE_INSTANT,23,100,0,GROUP_SUPPORT,2000,2000,0,,,,1
+39,ut ani gran hur,4 18 23 16,39,Strong Haste,utani gran hur,TYPE_INSTANT,20,100,0,GROUP_SUPPORT,2000,2000,0,Strong Haste,utani gran hur,Instant,1
+40,para al evo cogni,6 1 8 24,,,,,,,,,,,,,,,0
+41,al eta para,1 20 6,,,,,,,,,,,,,,,0
+42,ex evo pan,3 8 36,42,Food,exevo pan,TYPE_CONJURE,14,120,1,GROUP_SUPPORT,2000,2000,0,Food,exevo pan,Conjure,1
+44,ut amo vita,4 21 13,44,Magic Shield,utamo vita,TYPE_INSTANT,14,50,0,GROUP_SUPPORT,2000,2000,0,Magic Shield,utamo vita,Instant,1
+45,ut ana vid,4 7 37,45,Invisible,utana vid,TYPE_INSTANT,35,440,0,GROUP_SUPPORT,2000,2000,0,Invisible,utana vid,Instant,1
+46,para para al evo cogni,6 6 1 8 24,,,,,,,,,,,,,,,0
+47,para al ani sio,6 1 18 33,,,,,,,,,,,,,,,0
+48,ex evo con pox,3 8 40 15,48,Conjure Poisoned Arrow,exevo con pox,TYPE_CONJURE,16,130,2,GROUP_SUPPORT,2000,2000,0,Poisoned Arrow,exevo con pox,Conjure,1
+49,ex evo con flam,3 8 40 14,49,Conjure Explosive Arrow,exevo con flam,TYPE_CONJURE,25,290,3,GROUP_SUPPORT,2000,2000,0,Explosive Arrow,exevo con flam,Conjure,1
+50,ad evo res flam,2 8 25 14,50,Soulfire Rune,adevo res flam,TYPE_RUNE,27,420,3,GROUP_SUPPORT,2000,2000,0,Soulfire,adevo res flam,Rune,1
+51,ex evo con,3 8 40,51,Conjure Arrow,exevo con,TYPE_CONJURE,13,100,1,GROUP_SUPPORT,2000,2000,0,Conjure Arrow,exevo con,Conjure,1
+52,para al liber sio,6 1 12 33,,,,,,,,,,,,,,,0
+53,para al evo res,6 1 8 25,,,,,,,,,,,,,,,0
+54,ad ana ani,2 7 18,54,Paralyse Rune,adana ani,TYPE_RUNE,54,1400,3,GROUP_SUPPORT,2000,2000,0,Paralyze,adana ani,Rune,1
+55,ad evo mas vis,2 8 26 27,55,Energy Bomb Rune,adevo mas vis,TYPE_RUNE,37,880,5,GROUP_SUPPORT,2000,2000,0,Energybomb,adevo mas vis,Rune,1
+56,ex evo gran mas pox,3 8 23 26 15,,Poison Storm,exevo gran mas pox,TYPE_INSTANT,,,,,,,,Poison Storm,exevo gran mas pox,Instant,0
+57,para para para et ana liber,6 6 6 6 7 12,,,,,,,,,,,,,,,0
+58,al iva tera,1 39 31,,,,,,,,,,,,,,,0
+60,et ani para,6 18 6,,,,,,,,,,,,,,,0
+61,liber para para et ana gran,12 6 6 6 7 23,,,,,,,,,,,,,,,0
+62,et amo para,6 21 6,,,,,,,,,,,,,,,0
+63,para al evo vis,6 1 8 27,,,,,,,,,,,,,,,0
+64,para al eta vita,6 1 20 13,,,,,,,,,,,,,,,0
+65,para et isa para,6 6 38 6,,,,,,,,,,,,,,,0
+66,para et ana hora,6 6 7 22,,,,,,,,,,,,,,,0
+67,et ana para,6 7 6,,,,,,,,,,,,,,,0
+68,res para para et ana gran,25 6 6 6 7 23,,,,,,,,,,,,,,,0
+69,para para et ana vis,6 6 6 7 27,,,,,,,,,,,,,,,0
+70,para para para et ana res,6 6 6 6 7 25,,,,,,,,,,,,,,,0
+71,al eta sio,1 20 33,,,,,,,,,,,,,,,0
+72,al eta som,1 20 28,,,,,,,,,,,,,,,0
+73,para al ana sio,6 1 7 33,,,,,,,,,,,,,,,0
+74,al eta grav,1 20 34,,,,,,,,,,,,,,,0
+75,ut evo vis lux,4 8 27 11,75,Ultimate Light,utevo vis lux,TYPE_INSTANT,26,140,0,GROUP_SUPPORT,2000,2000,0,Summon Creature,utevo vis lux,Instant,1
+76,ex ani tera,3 18 31,76,Magic Rope,exani tera,TYPE_INSTANT,9,20,0,GROUP_SUPPORT,2000,2000,0,Magic Rope,exani tera,Instant,1
+77,ad evo res pox,2 8 25 15,,Envenom,adevo res pox,TYPE_RUNE,,,,,,,,Envenom,adevo res pox,Rune,0
+78,ad ito tera,2 35 31,78,Disintegrate Rune,adito tera,TYPE_RUNE,21,200,3,GROUP_SUPPORT,2000,2000,0,Creature Illusion,adito tera,Rune,1
+79,ex evo con mort,3 8 40 10,79,Conjure Bolt,exevo con mort,TYPE_CONJURE,17,140,2,GROUP_SUPPORT,2000,2000,0,Conjure Bolt,exevo con mort,Conjure,1
+80,ex ori,3 9,80,Berserk,exori,TYPE_INSTANT,35,115,0,GROUP_ATTACK,4000,2000,0,Berserk,exori,Instant,1
+81,ex ani hur para,3 18 16 6,81,Levitate,"exani hur ""up|down""",TYPE_INSTANT,12,50,0,GROUP_SUPPORT,2000,2000,0,,,,1
+82,ex ura gran mas res,3 32 23 26 25,82,Mass Healing,exura gran mas res,TYPE_INSTANT,36,150,0,GROUP_HEALING,2000,1000,0,Mass Healing,exura gran mas res,Instant,1
+83,ad ana mort,2 7 10,83,Animate Dead Rune,adana mort,TYPE_RUNE,27,600,5,GROUP_SUPPORT,2000,2000,0,Animate Dead,adana mort,Rune,1
+84,ex ura sio para,3 32 33 6,84,Heal Friend,"exura sio ""name""",TYPE_INSTANT,18,140,0,GROUP_HEALING,1000,1000,0,,,,1
+85,ex ana mas mort,3 7 26 10,,Undead Legion,exana mas mort,TYPE_INSTANT,,,,,,,,Undead Legion,exana mas mort,Instant,0
+86,ad evo grav tera,2 8 34 31,86,Magic Wall Rune,adevo grav tera,TYPE_RUNE,32,750,5,GROUP_SUPPORT,2000,2000,0,Magic Wall,adevo grav tera,Rune,1
+87,ex ori mort,3 9 10,87,Death Strike,exori mort,TYPE_INSTANT,16,20,0,GROUP_ATTACK,2000,2000,0,Force Strike,exori mort,Instant,1
+88,ex ori vis,3 9 27,88,Energy Strike,exori vis,TYPE_INSTANT,12,20,0,GROUP_ATTACK,2000,2000,0,Energy Strike,exori vis,Instant,1
+89,ex ori flam,3 9 14,89,Flame Strike,exori flam,TYPE_INSTANT,14,20,0,GROUP_ATTACK,2000,2000,0,Flame Strike,exori flam,Instant,1
+90,ex ana ina,3 7 19,90,Cancel Invisibility,exana ina,TYPE_INSTANT,26,200,0,GROUP_SUPPORT,2000,2000,0,Cancel Invisibility,exana ina,Instant,1
+91,ad evo mas pox,2 8 26 15,91,Poison Bomb Rune,adevo mas pox,TYPE_RUNE,25,520,2,GROUP_SUPPORT,2000,2000,0,Poison Bomb,adevo mas pox,Rune,1
+92,ex eta vis,3 20 27,92,Enchant Staff,exeta vis,TYPE_INSTANT,41,80,0,GROUP_SUPPORT,2000,2000,0,Enchant Staff,exeta vis,Instant,1
+93,ex eta res,3 20 25,93,Challenge,exeta res,TYPE_INSTANT,20,30,0,GROUP_SUPPORT,2000,2000,0,Challenge,exeta res,Instant,1
+94,ex evo grav vita,3 8 34 13,,Wild Growth,exevo grav vita,TYPE_INSTANT,,,,,,,,Wild Growth,exevo grav vita,Instant,0
+95,ex evo con vis,3 8 40 27,95,Conjure Power Bolt,exevo con vis,TYPE_CONJURE,59,700,4,GROUP_SUPPORT,2000,2000,0,Power Bolt,exevo con vis,Conjure,1
+96,para al iva cogni,6 1 39 24,,,,,,,,,,,,,,,0
+97,para para al eta cogni,6 6 1 20 24,,,,,,,,,,,,,,,0
+98,al ito tera,1 35 31,,,,,,,,,,,,,,,0
+99,para al ani hur,6 1 18 16,,,,,,,,,,,,,,,0
+100,al ana cogni,1 7 24,,,,,,,,,,,,,,,0
+101,res al ito mas,25 1 35 26,,,,,,,,,,,,,,,0
+102,res para al evo mas,25 6 1 8 26,,,,,,,,,,,,,,,0
