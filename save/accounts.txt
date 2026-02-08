@@ -1,0 +1,5 @@
+account="toor"
+password="root"
+player_id=1001
+premium=0
+gm=0
