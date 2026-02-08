@@ -3,6 +3,7 @@
 Rust implementation of the Tibia game server, based on [fusion32/tibia-game](https://github.com/fusion32/tibia-game).
 
 This project is **for educational purposes only**. Most core features work, but it is **not yet 100% on par** with the original server behavior and data compatibility.
+I am not planning on developing it further. You're encouraged to iterate on this code base.
 
 ## Status
 
