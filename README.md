@@ -108,6 +108,11 @@ cargo run --bin spell_count
 cargo run --bin spell_effect_audit
 ```
 
+## Connecting to the game world
+You'll need a client speaking the 7.72 protocol but without XTEA encryption. Your best bet is to modify otclient.
+This Rust server also exposes a Websocket on port 7173, so you could connect through it from a HTML website.
+A client is not part of this repo. You'll have to roll your own.
+
 ## Notes
 
 - Startup performs asset scans and validation passes for saves, NPC scripts, and monster scripts.
